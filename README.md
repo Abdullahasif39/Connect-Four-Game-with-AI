@@ -66,8 +66,4 @@ Connect Four is played on a 6x7 grid, where players take turns dropping coloured
 
 In conclusion, the Connect Four game with an AI player demonstrates the integration of an AI algorithm to enhance the gameplay experience. The minimax algorithm with alpha-beta pruning enables the AI player to make intelligent decisions, adding depth and challenge to the game. Overall, this project showcases the application of AI in game development and its impact on player engagement and enjoyment.
 
-## 7. References:
 
-- Russell, S. J., & Norvig, P. (2016). Artificial Intelligence: A Modern Approach (3rd ed.). Pearson.
-- Pygame Documentation: https://www.pygame.org/docs/
-- NumPy Documentation: https://numpy.org/doc/
